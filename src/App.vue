@@ -1,10 +1,14 @@
 <template>
   <div id="app">
-<<<<<<< HEAD
-=======
-   222222222222222222
->>>>>>> de63270cfca03c68b7616563370100b5d93d5ac1
     <router-view/>
+
+
+
+
+
+
+
+
   </div>
 </template>
 
